@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761221984883",
+    "project_id": "botgia-app",
+    "storage_bucket": "botgia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761221984883:android:2b5f0574ce285a2f423006",
+        "android_client_info": {
+          "package_name": "com.dimovdaniel.mobidonia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7D6wWkjsJ2k17oah7SNpZcNIq3aIgq3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
