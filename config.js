@@ -1,7 +1,7 @@
 //Main data
 exports.domain="https://botgia.com";
 exports.APP_NAME="BotGia";
-exports.LOGO="https://mobidonia.com/wp-content/uploads/2021/03/white.png";
+exports.LOGO="https://botgia.com//uploads/media/mjiu5GXB6Thh7bBXzuavAzoH7wLjLuVaX5TTmFH9.png";
 exports.LOGOWidth=487;
 exports.LOGOHeight=144;
 
